@@ -12,7 +12,6 @@ public class Lingkaran extends BangunDatar {
         this.luas = (this.phi*this.r*this.r);
     }
 
-    @Override
     public void hitungKeliling(){
         this.keliling = (this.phi*2*this.r);
     }
