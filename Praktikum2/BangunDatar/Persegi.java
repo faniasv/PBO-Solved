@@ -10,7 +10,6 @@ public class Persegi extends BangunDatar{
         this.luas = (this.s*this.s);
     }
 
-    @Override
     public void hitungKeliling(){
         this.keliling = (4*this.s);
     }
