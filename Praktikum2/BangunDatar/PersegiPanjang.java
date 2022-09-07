@@ -12,7 +12,6 @@ public class PersegiPanjang extends BangunDatar {
         this.luas = (this.p*this.l);
     }
     
-    @Override
     public void hitungKeliling() {
         this.keliling = (2*(this.p+this.l));
     }
